@@ -2,6 +2,8 @@
 
 Now i am testing Slack Integration notification system.
 
+This line is added when repo was not loaded in github windows client.
+
 #Unyson Framework
 
 [Unyson](http://unyson.themefuse.com/) is a framework for [WordPress](http://wordpress.org/) that facilitates development of a theme.
