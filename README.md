@@ -1,8 +1,6 @@
 #Edited by Munir Kamal
 
-Now i am testing Slack Integration notification system.
-
-This line is added when repo was not loaded in github windows client.
+This is a branch test
 
 What is branch?
 
