@@ -4,6 +4,8 @@ This is a branch test
 
 What is branch?
 
+Now testing glip integarion
+
 #Unyson Framework
 
 [Unyson](http://unyson.themefuse.com/) is a framework for [WordPress](http://wordpress.org/) that facilitates development of a theme.
